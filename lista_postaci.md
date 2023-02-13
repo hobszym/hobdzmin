@@ -6,3 +6,4 @@
 
 ** Złodziej ** - lekki wojownik, szybki i z umiejętnościami rabunkowymi.
 
+** Barbarzyńca ** - ciężki wojownik wyposażony w topór.
